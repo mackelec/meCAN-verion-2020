@@ -7,7 +7,7 @@ The new version of meCAN is designed to work with a wider range of microcontroll
 
 #### NEW meFDCAN arduino library   https://github.com/mackelec/meFDCAN
 
-- Arduno Classic CAN library for the STM32G4xx series.
+- Arduino Classic CAN library for the STM32G4xx series.
   -  Three CAN port support on the STM32G473
 
 
