@@ -1,6 +1,8 @@
 # meCAN-verion-2020
 Arduino Library - stm32F1,L4 CAN Library
 
+#### NEW updated meCAN 2023 version  https://github.com/mackelec/meCAN
+
 
 meCAN is an Arduino Library designed to easily operate the CAN ports of STM32F1 microcontrollers. The library's old version, version 2020, is now superseded by the new 2023 version which can be found on GitHub at https://github.com/mackelec/meCAN. 
 
